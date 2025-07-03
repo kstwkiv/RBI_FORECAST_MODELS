@@ -4,12 +4,12 @@ Here’s a **professional project description** you can use for your **GitHub RE
 
 ---
 
-## 📝 Project Description
+##  Project Description
 
 **Title**: RBI Investment Forecasting Using ARIMA vs XGBoost
 **Domain**: FinTech · Time-Series Forecasting · Data Science
 
-### 📊 Overview:
+###  Overview:
 
 This project analyzes and forecasts **RBI’s Scheduled Commercial Banks' investments in SLR Securities** using two distinct time-series modeling approaches:
 
@@ -20,7 +20,7 @@ The objective is to compare both models' performance on real RBI financial data,
 
 ---
 
-### 🔍 Dataset:
+###  Dataset:
 
 The data comes from RBI’s public financial bulletins, containing fortnightly figures for various investment categories by commercial banks — specifically:
 
@@ -31,14 +31,14 @@ The data was cleaned from an unstructured Excel format using `pandas` and reshap
 
 ---
 
-### 🧠 Models Used:
+###  Models Used:
 
 * **ARIMA**: Captures trends and autocorrelation directly from the time series. Suitable for sequential data with minimal feature engineering.
 * **XGBoost**: Used with lag-based features to predict future values. Powerful but sensitive to feature design in time series.
 
 ---
 
-### 📈 Evaluation:
+###  Evaluation:
 
 Models were evaluated using **Root Mean Squared Error (RMSE)** on a held-out test set.
 
@@ -52,7 +52,7 @@ ARIMA significantly outperformed XGBoost for this dataset, making it a more suit
 
 ---
 
-### ✅ Key Highlights:
+###  Key Highlights:
 
 * Real-world RBI financial dataset
 * Full data cleaning, transformation, and visualization pipeline
