@@ -1,9 +1,5 @@
 # RBI_FORECAST_MODELS
 
-Here’s a **professional project description** you can use for your **GitHub README**, **resume**, or even on LinkedIn:
-
----
-
 ##  Project Description
 
 **Title**: RBI Investment Forecasting Using ARIMA vs XGBoost
@@ -16,7 +12,7 @@ This project analyzes and forecasts **RBI’s Scheduled Commercial Banks' invest
 * **ARIMA (AutoRegressive Integrated Moving Average)** — a statistical forecasting model
 * **XGBoost (Extreme Gradient Boosting)** — a powerful machine learning model
 
-The objective is to compare both models' performance on real RBI financial data, focusing on forecast accuracy and model interpretability.
+My objective is to compare both models' performance on real RBI financial data, focusing on forecast accuracy and model interpretability.
 
 ---
 
